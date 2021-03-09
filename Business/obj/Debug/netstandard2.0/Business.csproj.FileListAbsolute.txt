@@ -1,0 +1,9 @@
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netstandard2.0\Business.pdb
