@@ -1,0 +1,16 @@
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Nadir\source\repos\RentificialBackend\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Nadir\source\repos\RentificialBackend\Business\obj\Debug\netcoreapp3.1\Business.pdb

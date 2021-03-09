@@ -56,7 +56,7 @@ namespace Core.EntityFramework
             using (var context = new TContext())
             {
                 var updatedEntity = context.Entry(entity);
-                updatedEntity.State = EntityState.Deleted;
+                updatedEntity.State = EntityState.Modified;
                 context.SaveChanges();
             }
         }
