@@ -1,5 +1,8 @@
 using Business.Abstract;
 using Business.Concrete;
+using Core.DependencyResolvers;
+using Core.Extensions;
+using Core.Utilities.IoC;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Microsoft.AspNetCore.Builder;
@@ -9,7 +12,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,6 +34,7 @@ namespace WebAPI
             services.AddControllers();
             services.AddSingleton<IPersonService,PersonManager >();
             services.AddSingleton<IPersonDal, EfPersonDal>();
+
             services.AddSwaggerDocument(config => {
                 config.PostProcess = (doc =>
                 {
@@ -45,6 +48,13 @@ namespace WebAPI
                     };
                 });
             });
+
+            services.AddDependencyResolvers(new ICoreModule[]
+            {
+                new CoreModule(),
+            });
+
+            var assembly = System.Reflection.Assembly.GetExecutingAssembly();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

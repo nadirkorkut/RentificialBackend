@@ -81,3 +81,7 @@ C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\bin\Debug\netcoreapp3.1\NS
 C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
 C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\bin\Debug\netcoreapp3.1\YamlDotNet.dll
 C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\Nadir\source\repos\RentificialBackend\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
