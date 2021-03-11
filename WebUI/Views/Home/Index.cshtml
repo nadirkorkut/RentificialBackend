@@ -1,0 +1,28 @@
+﻿@model List<Entities.Concrete.Person>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Phone Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+        <tr>
+            <th>@person.Id</th>
+            <td>@person.Name</td>
+            <td>@person.Surname</td>
+            <td>@person.PhoneNumber</td>
+        </tr>
+        }
+    </tbody>
+</table>
+ 
